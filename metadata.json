@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Flashcards",
+  "description": "A web application for flashcard training that can import decks from text using AI and stores your performance and evolution in your browser.",
+  "requestFramePermissions": []
+}
